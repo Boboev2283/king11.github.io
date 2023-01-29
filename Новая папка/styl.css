@@ -1,0 +1,72 @@
+  .Основа{
+    width: 41%; 
+    background: green; 
+    border: 10px solid #333; /* Граница вокруг ячеек */
+    padding: 50px; /* Поля в ячейках */ 
+    
+    background-color:green;
+  display:inline-block;
+    border-spacing:7px 5px;
+   
+   }
+.текст{
+  width: 41%; 
+    border: 50px solid #399
+    background: green; 
+    border: 10px solid #333; /* Граница вокруг ячеек */
+    padding: 50px; /* Поля в ячейках */ 
+ 
+    background-color:green;
+  display:inline-block;
+    border-spacing:7px 5px;
+
+
+    vertical-align: top;
+
+
+}
+.block2
+    { 
+    width: 200px; 
+    background: black; 
+    padding: 5px; 
+    border: solid 1px black; 
+    float: left; 
+    position: relative; 
+    top: 40px; 
+    left: -70px; 
+    color: white;
+   }
+.be
+{
+
+    background: white; /* Цвет фона правой колонки */
+
+}
+#maket {
+    width: 100%; /* Ширина всей таблицы */
+   }
+   TD {
+    vertical-align: top; /* Вертикальное выравнивание в ячейках */
+    padding: 5px; /* Поля вокруг ячеек */
+   }
+   TD#leftcol {
+    width: 200px; /* Ширина левой колонки */
+    background: white; /* Цвет фона левой колонки */
+    border: 1px solid #000; /* Параметры рамки */
+   }
+   TD#rightcol {
+    background: white; /* Цвет фона правой колонки */
+    border: 1px solid #000; /* Параметры рамки */
+   }
+   #spacer {
+    width: 3px; /* Расстояние между колонками */
+   }
+
+ .table {
+    background: red; /* Цвет фона таблицы */
+    color: white; /* Цвет текста */
+   }
+   .td {
+    background: navy; /* Цвет фона ячеек */
+   }
